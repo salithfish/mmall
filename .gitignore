@@ -18,6 +18,7 @@ target/
 *.ipr
 *.iws
 *.iml
+/out/*
 
 # temp file
 *.log
